@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+biopython
+scipy 
+statsmodels
